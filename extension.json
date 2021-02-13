@@ -1,0 +1,13 @@
+{
+    "identifier": "com.tonykeiser.MonokaiPro",
+    "name": "Monokai Pro",
+    "organization": "Tony Keiser",
+    "description": "This is an unofficial Monokai Pro theme by Tony Keiser. Credit goes to Monokai Pro (https://monokai.pro) and its orginal creator. This plugin includes the default theme and the original four filters: Machine, Octagon, Ristretto, and Spectrum. Also includes two new filters: Light and Warm.",
+    "version": "1.0",
+    "categories": ["themes"],
+    "homepage": "https://tonykeiser.com",
+    "repository": "https://github.com/keisto/MonokaiPro.novaextension",
+    "bugs": "https://github.com/keisto/MonokaiPro.novaextension/issues",
+    "funding": "https://github.com/sponsors/keisto",
+    "license": "MIT"
+}
