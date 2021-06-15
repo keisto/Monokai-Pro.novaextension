@@ -116,6 +116,7 @@ keyword {
 }
 
 comment,
+javascript.comment.block,
 processing,
 declaration {
   color: #8fa6bb;
